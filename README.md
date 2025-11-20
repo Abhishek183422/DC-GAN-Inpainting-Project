@@ -1,10 +1,6 @@
 # DC-GAN Face Inpainting – Bavlibuch Internship Project (2023)
 
-<p align="center">
-  <img src="assets/result1.jpg" width="900"/>
-  <br>
-  <i>Before → Masked → Magically Restored ✨</i>
-</p>
+# https://docs.google.com/document/d/1TEOyqo1F6ijlHLJx9M9Cc4JqmvDi76UbPOT1iKSX-kw/edit?usp=sharing
 
 Trained a **conditional DC-GAN from scratch** to intelligently fill missing circular regions in high-quality faces (CelebA-HQ dataset streamed directly from AWS S3).
 
